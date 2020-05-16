@@ -8,4 +8,5 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @ContextConfiguration(value = {"classpath:/config/spring-*.xml"})
 public class BaseTest {
      System.out.println("test1")
+     System.out.println("test2")
 }
