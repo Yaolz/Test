@@ -47,7 +47,7 @@
     </repositories>
 
     <properties>
-        <spring.version>4.3.10.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <aspectj.version>1.8.10</aspectj.version>
         <fileupload.version>1.3.3</fileupload.version>
         <faster.version>2.9.1</faster.version>
